@@ -1,7 +1,7 @@
 /* Om du vill ändra snöfärgen */
 const color = [255, 255, 255];
 /* justera hur snabbt snön faller */
-const speed = 5;
+const speed = 7;
 
 /* Ändra här nedanför på egen risk */
 

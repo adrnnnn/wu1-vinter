@@ -6,11 +6,11 @@
 }
 
 :root {
-  --color-bg: rgba(103, 157, 157, 0.587);
-  --color-fg: #fff;
+  --color-bg: rgb(255, 26, 26);
+  --color-fg: #089e12;
 
   --font-body: sans-serif;
-  --font-header: 'KerakNeraka', sans-serif;
+  --font-header: '', sans-serif;
 
   --step--2: clamp(0.6331rem, 0.6141rem + 0.0949vw, 0.6877rem);
   --step--1: clamp(0.844rem, 0.7993rem + 0.2234vw, 0.9724rem);
